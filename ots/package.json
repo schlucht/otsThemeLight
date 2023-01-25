@@ -1,0 +1,21 @@
+{
+  "name": "ots",
+  "displayName": ".",
+  "description": "otsTheme light",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.74.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "otsThemeLight",
+        "uiTheme": "vs",
+        "path": "./themes/otsThemeLight-color-theme.json"
+      }
+    ]
+  }
+}
